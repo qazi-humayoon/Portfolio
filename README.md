@@ -2,17 +2,7 @@
 
 Welcome to the repository for my personal portfolio website! This repository contains the code and assets for my online portfolio, showcasing my skills, projects, and achievements. Feel free to explore the code, contribute, or use it as a reference for your own portfolio project.
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+Link:- https://humayoon-niyaz.netlify.app/
 
 ## About the Project
 
@@ -30,51 +20,22 @@ This project is a personal portfolio website designed to showcase my skills, pro
 
 Follow these instructions to set up the project locally on your machine.
 
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v14.x or later)
-- [Git](https://git-scm.com/)
-
-### Installation
-
 1. Clone the repository:
 
    ```sh
    git clone https://github.com/qazi-humayoon/Portfolio.git
    ```
+2. Customize the website content by modifying the HTML, CSS, and image files according to your preferences. You can add or remove sections, update project details, and tailor the design to reflect your personal style.
 
-2. Navigate to the project directory:
+3. Replace the sample projects, images, and placeholders with your own projects, images, and information. Remember to update the links and references accordingly.
 
-   ```sh
-   cd Portfolio
-   ```
+4. Deploy the website to a hosting service of your choice. You can use platforms like GitHub Pages, Netlify, or Firebase Hosting for easy and free hosting options.
+## Customization
+The portfolio website template can be customized in various ways to align with your unique style and requirements:
 
-3. Install the required dependencies:
-
-   ```sh
-   npm install
-   ```
-
-## Usage
-
-1. Start the development server:
-
-   ```sh
-   npm start
-   ```
-
-2. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to see the portfolio website in action.
-
-3. Customize the content in the `src` directory to match your own information, projects, and preferences.
-
-## Contributing
-
-Contributions are welcome! If you find a bug or want to suggest enhancements, please open an issue or submit a pull request. Before contributing, please review the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions or want to connect, feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/qazi-humayoon/) or [Twitter](https://twitter.com/qazi_humayoon) profiles.
+- Design: Modify the CSS stylesheets to change the colors, fonts, layout, and overall visual appearance of the website.
+- Structure: Add or remove sections, rearrange the order of content, and tailor the website structure to emphasize your strengths and achievements.
+- Responsive Design: Ensure that the website is responsive and mobile-friendly by adapting the layout and styles for different screen sizes.
+Feel free to explore and experiment with the code to personalize your portfolio website and make it stand out.
+## Acknowledgements
+The portfolio website template is inspired by Bedmicode and has been modified to suit individual needs.
