@@ -18,7 +18,7 @@ This project is a personal portfolio website designed to showcase my skills, pro
 
 ## Getting Started
 
-Follow these instructions to set up the project locally on your machine.
+To set up your own portfolio website using this repository, follow these steps:
 
 1. Clone the repository:
 
