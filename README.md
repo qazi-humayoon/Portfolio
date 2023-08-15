@@ -37,5 +37,7 @@ The portfolio website template can be customized in various ways to align with y
 - Structure: Add or remove sections, rearrange the order of content, and tailor the website structure to emphasize your strengths and achievements.
 - Responsive Design: Ensure that the website is responsive and mobile-friendly by adapting the layout and styles for different screen sizes.
 Feel free to explore and experiment with the code to personalize your portfolio website and make it stand out.
+
+  ---
 ## Acknowledgements
 The portfolio website template is inspired by Bedmicode and has been modified to suit individual needs.
